@@ -1,5 +1,5 @@
 # Dots-Jan2620-X220T
-My dotfiles for my i3-gaps setup on Endeavour OS. 
+My dotfiles for my i3-gaps setup on Endeavour OS. (The wallpaper has the Manjaro logo because I never got around to changing the logo on the wallpaper, my main system has Manjaro on it. so I made the wallpaper to have the Manjaro logo for it.)
 
 Instalation instuctions for fonts is in the polybar folder. 
 
